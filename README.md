@@ -59,6 +59,7 @@ Cálculo do percentual de faturamento de cada estado sobre o valor total mensal.
 
 Inverte uma string sem o uso de funções prontas.
 
+_________________________________________________
 💪 Exemplo de Saída
 
 Valor final da variável SOMA: 91
@@ -72,7 +73,7 @@ MG: 16.17%
 ES: 15.03%
 Outros: 10.98%
 Texto invertido: oifaseD
-
+________________________________________________
 👤 Autor
 
 Vinícius Ribeiro Dos Santos Eira
